@@ -1,0 +1,22 @@
+Battlestar TODO
+===============
+
+Right now, we're busy working on:
+	- Writing a chat server and client (required for course)
+	- Designing the framework of the game
+Ergo, we haven't started coding yet. This file will contain our ideas and such.
+
+Priorities
+----------
+	
+	  * -- Low
+ 	 ** -- Moderate
+	*** -- High
+	!!! -- Urgent!
+
+List
+----
+
+	!!! -- Lay out design framework (define classes, game rules, etc)
+	*** -- Integrate chat client/server code
+	*** -- Decide on interface appearance and functionality
