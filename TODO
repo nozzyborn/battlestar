@@ -20,3 +20,11 @@ List
 	!!! -- Lay out design framework (define classes, game rules, etc)
 	*** -- Integrate chat client/server code
 	*** -- Decide on interface appearance and functionality
+
+Ideas
+-----
+
+       - Circular board
+       - Movement based off of trivia/challenges each turn
+       - Chat server between players
+       - Teams?
